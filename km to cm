@@ -1,0 +1,5 @@
+p=input('enter program name:')
+km=int(input('enter value:'))
+centimetre=(km*100000)
+print('value in centimetre is :',centimetre)
+output : 1km=100000cm
